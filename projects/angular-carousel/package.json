@@ -1,8 +1,8 @@
 {
-  "name": "@marcreichel/angular-carousel",
+  "name": "@jonmarlow/angular-carousel",
   "version": "0.0.1",
   "description": "A simple and lightweight Angular Carousel Component.",
-  "homepage": "https://github.com/marcreichel/angular-carousel",
+  "homepage": "https://github.com/jonmarlow/angular-carousel",
   "keywords": [
     "angular",
     "library",
@@ -11,12 +11,12 @@
     "typescript"
   ],
   "author": {
-    "name": "Marc Reichel",
-    "url": "https://github.com/marcreichel"
+    "name": "Jon Marlow",
+    "url": "https://github.com/jonmarlow"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcreichel/angular-carousel.git"
+    "url": "git+https://github.com/jonmarlow/angular-carousel.git"
   },
   "license": "MIT",
   "peerDependencies": {
@@ -41,9 +41,9 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "esm2022": "./esm2022/marcreichel-angular-carousel.mjs",
-      "esm": "./esm2022/marcreichel-angular-carousel.mjs",
-      "default": "./fesm2022/marcreichel-angular-carousel.mjs"
+      "esm2022": "./esm2022/jonmarlow-angular-carousel.mjs",
+      "esm": "./esm2022/jonmarlow-angular-carousel.mjs",
+      "default": "./fesm2022/jonmarlow-angular-carousel.mjs"
     }
   }
 }

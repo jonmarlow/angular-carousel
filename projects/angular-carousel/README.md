@@ -1,4 +1,6 @@
 
+This is a fork of `@marcreichel/angular-carousel`
+
 # Angular Carousel
 
 [![CodeFactor](https://www.codefactor.io/repository/github/marcreichel/angular-carousel/badge)](https://www.codefactor.io/repository/github/marcreichel/angular-carousel)
@@ -12,16 +14,16 @@ A simple and lightweight Angular (12+) Carousel Component.
 
 ## Installation
 
-Install `@marcreichel/angular-carousel` with npm:
+Install `@jonmarlow/angular-carousel` with npm:
 
 ```bash
-npm install @marcreichel/angular-carousel --save
+npm install @jonmarlow/angular-carousel --save
 ```
 
 or with yarn:
 
 ```bash
-yarn add @marcreichel/angular-carousel
+yarn add @jonmarlow/angular-carousel
 ```
 
 ## Documentation
