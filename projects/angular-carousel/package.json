@@ -25,5 +25,25 @@
   },
   "dependencies": {
     "tslib": "^2.2.0"
+  },
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    "./css/main.css": {
+      "default": "./css/main.css"
+    },
+    "./themes/dots.css": {
+      "default": "./themes/dots.css"
+    },
+    "./themes/stripes.css": {
+      "default": "./themes/stripes.css"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/marcreichel-angular-carousel.mjs",
+      "esm": "./esm2022/marcreichel-angular-carousel.mjs",
+      "default": "./fesm2022/marcreichel-angular-carousel.mjs"
+    }
   }
 }
